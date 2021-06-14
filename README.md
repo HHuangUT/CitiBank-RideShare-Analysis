@@ -1,4 +1,4 @@
-# CitiBank-RideShare-Analysis
+# CitiBike-RideShare-Analysis
 
 [link to dashboard](https://public.tableau.com/app/profile/h2275/viz/CitiBank-RideShare-Analysis/Story1)
 
